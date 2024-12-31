@@ -23,6 +23,7 @@ This project is a simple **secure password generator** with a graphical user int
 1. Clone this repository:
    ```bash
    git clone https://github.com/obaidmedweb/secure-password-generator.git
+
    ```
 
 2. Install Python 3 (if not already installed):
