@@ -51,5 +51,8 @@ This project is a simple **secure password generator** with a graphical user int
 
 ##  Screenshot
 ![Capture d’écran 2024-12-31 à 20 33 34](https://github.com/user-attachments/assets/1b5c124c-3788-4f86-b042-d0b59f410f85)
+![Capture d’écran 2024-12-31 à 20 49 39](https://github.com/user-attachments/assets/fe43728e-1109-4743-890a-4d9af510ecf3)
+
+
 
 
