@@ -30,8 +30,15 @@ This project is a simple **secure password generator** with a graphical user int
 
 3. Run the script:
    ```bash
+      
+   cd secure-password-generator
+   ```
+
+   
+   ```bash
    python password_generator.py
    ```
+
 
 ## How to Use
 
